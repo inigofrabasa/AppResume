@@ -26,7 +26,7 @@
   {
     "skillId": "5",
     "name": "JavaScript",
-    "description": "Hello   <br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/JavaScript\">Wikipedia</a>)",
+    "description": "Javascript is the popular programming language that I use for developing in ReactJs and React-Native<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/JavaScript\">Wikipedia</a>)",
     "imageUrl": "https://i0.wp.com/www.vidagnu.com/wp-content/uploads/2014/12/javascript.png"
   },
   {
@@ -56,7 +56,7 @@
   {
     "skillId": "10",
     "name": "Firebase",
-    "description": "Hello   <br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Firebase\">Wikipedia</a>)",
+    "description": "Firebase is a set of tools for developers like a serveless backend and Cloud Messaging for apps Notification that I have used<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Firebase\">Wikipedia</a>)",
     "imageUrl": "https://firebase.google.com/images/social.png"
   },
   {
