@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            app:startDestination="@+id/profile_fragment">
+
+    <fragment
+            android:id="@+id/profile_fragment"
+            android:name="mx.inigofrabasa.inigofrabasaresume.app.resume.ProfileFragment"
+            android:label="@string/my_profile_title"
+            tools:layout="@layout/fragment_profile">
+
+        <action
+                android:id="@+id/action_profile_fragment_to_skill_detail_fragment"
+                app:destination="@id/skill_detail_fragment"
+                app:enterAnim="@anim/slide_in_right"
+                app:exitAnim="@anim/slide_out_left"
+                app:popEnterAnim="@anim/slide_in_left"
+                app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+            android:id="@+id/skill_list_fragment"
+            android:name="mx.inigofrabasa.inigofrabasaresume.app.resume.SkillListFragment"
+            android:label="@string/skill_list_title"
+            tools:layout="@layout/fragment_skill_list">
+
+        <action
+                android:id="@+id/action_skill_list_fragment_to_skill_detail_fragment"
+                app:destination="@id/skill_detail_fragment"
+                app:enterAnim="@anim/slide_in_right"
+                app:exitAnim="@anim/slide_out_left"
+                app:popEnterAnim="@anim/slide_in_left"
+                app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+            android:id="@+id/skill_detail_fragment"
+            android:name="mx.inigofrabasa.inigofrabasaresume.app.resume.SkillDetailFragment"
+            android:label="@string/skill_details_title"
+            tools:layout="@layout/fragment_skill_detail">
+        <argument
+                android:name="skillId"
+                app:argType="string" />
+    </fragment>
+
+</navigation>

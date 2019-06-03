@@ -1,0 +1,86 @@
+[
+  {
+    "skillId": "1",
+    "name": "Android",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Android_(operating_system)\">Wikipedia</a>)",
+    "imageUrl": "https://d500.epimg.net/cincodias/imagenes/2019/03/19/companias/1553027804_546510_1553028474_noticia_normal.jpg"
+  },
+  {
+    "skillId": "2",
+    "name": "Kotlin",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Kotlin_(programming_language)\">Wikipedia</a>)",
+    "imageUrl": "https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png"
+  },
+  {
+    "skillId": "3",
+    "name": "Java",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Java_(programming_language)\">Wikipedia</a>)",
+    "imageUrl": "https://www.campusmvp.es/recursos/image.axd?picture=/2017/4T/Java.png"
+  },
+  {
+    "skillId": "4",
+    "name": "React-Native",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/React_Native\">Wikipedia</a>)",
+    "imageUrl": "https://cdn-images-1.medium.com/max/1200/1*SluXAlSPIxxWjwUsiqD2Kw.png"
+  },
+  {
+    "skillId": "5",
+    "name": "JavaScript",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/JavaScript\">Wikipedia</a>)",
+    "imageUrl": "https://i0.wp.com/www.vidagnu.com/wp-content/uploads/2014/12/javascript.png"
+  },
+  {
+    "skillId": "6",
+    "name": "Unity",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Unity_(game_engine)\">Wikipedia</a>)",
+    "imageUrl": "https://unity3d.com/files/images/ogimg.jpg"
+  },
+  {
+    "skillId": "7",
+    "name": "C#",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)\">Wikipedia</a>)",
+    "imageUrl": "https://www.seas.es/blog/wp-content/uploads/2017/12/C7-programacion.jpg"
+  },
+  {
+    "skillId": "8",
+    "name": "Flutter",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Flutter_(software)\">Wikipedia</a>)",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/7.jpg"
+  },
+  {
+    "skillId": "9",
+    "name": "Dart",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Dart_(programming_language)\">Wikipedia</a>)",
+    "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2018/08/dart-programming-language-header.png"
+  },
+  {
+    "skillId": "10",
+    "name": "Firebase",
+    "description": "Hello(From <a href=\"https://en.wikipedia.org/wiki/Firebase\">Wikipedia</a>)",
+    "imageUrl": "https://firebase.google.com/images/social.png"
+  },
+  {
+    "skillId": "11",
+    "name": "ReactJS",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/React_(JavaScript_library)\">Wikipedia</a>)",
+    "imageUrl": "https://miro.medium.com/max/1120/1*dLaDL-lSN0iprzmOpmM7zQ.png"
+  },
+  {
+    "skillId": "12",
+    "name": "C++",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/C_(programming_language)\">Wikipedia</a>)",
+    "imageUrl": "https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/c-plus-plus-lenguaje-de-programacion-logo.png"
+  },
+  {
+    "skillId": "13",
+    "name": "Python",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Python_(programming_language)\">Wikipedia</a>)",
+    "imageUrl": "https://python.rs/pylogo.png"
+  },
+  {
+    "skillId": "14",
+    "name": "Xamarin",
+    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Xamarin\">Wikipedia</a>)",
+    "imageUrl": "https://lamanzanamordida.net/app/uploads/2017/05/Xamarin.png"
+  }
+]

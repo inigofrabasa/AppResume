@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Inigo Resume</string>
+    <string name="navigation_drawer_header_title">Iñigo Flores Rabasa</string>
+
+    <string name="skill_detail_image_content_description">Image of Skill</string>
+    <string name="my_profile_title">Resume Profile</string>
+    <string name="skill_list_title">Skill List</string>
+    <string name="skill_details_title">Skill Detail</string>
+    <string name="navigation_drawer_header_content_description">Navigation drawer header logo</string>
+    <string name="added_skill_to_profile">Added Skill to Resume Profile</string>
+    <string name="profile_empty">The <b>Resume Profile</b> is empty.\n\nPlease add <b>Skills</b> to the <b>Resume</b>\n using the navigation menu.</string>
+    <string name="added_date">%1$s added on %2$s</string>
+    <string name="menu_item_share_skill">Share</string>
+    <string name="share_text_skill">Check out the %s Skills in the Android Resume App</string>
+    <string name="skill_item_image">Picture of Skill</string>
+
+</resources>
