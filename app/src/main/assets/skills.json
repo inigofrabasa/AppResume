@@ -2,85 +2,85 @@
   {
     "skillId": "1",
     "name": "Android",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Android_(operating_system)\">Wikipedia</a>)",
+    "description": "With the role of mobile android leader, I have collaborated with the development, implementation and maintenance of the suite of Santander banking mobile applications for the Android platform, participating in the team responsible for the Santander mobile and Super Wallet development which consisted in meetings, requirements gathering, design and improvement of the responsiveness and performance of the application, as well as the integration of new functionalities such as bank loans, software Token, Santander’s Plus Rewards Program, facelift, etc. \n\nIn the Santander and Super Wallet applications I used Android Studio, Android SDK, Java, JSON, SQLite, Material Design, Retrofit, RxJava, Firebase, MVP Architecture, Gemalto and much more and for the Hybrid components I used HTML, JavaScript, CSS and React-Js all this to achieve a high adoption rate and a fast time delivery using Agile Principles and the Scrum framework. <br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Android_(operating_system)\">Wikipedia</a>)",
     "imageUrl": "https://d500.epimg.net/cincodias/imagenes/2019/03/19/companias/1553027804_546510_1553028474_noticia_normal.jpg"
   },
   {
     "skillId": "2",
     "name": "Kotlin",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Kotlin_(programming_language)\">Wikipedia</a>)",
+    "description": "I used Kotlin in a Y Combinator Startup Fintech that focus to gain market in Latin America with a Wallet and Payments between people and business, my role was to develop the Android version of the Application using cutting edge Android Native Technologies for this Startup. Flint raise 1.4 Million USD in a seed program inside Y Combinator at beginning of 2018.\n<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Kotlin_(programming_language)\">Wikipedia</a>)",
     "imageUrl": "https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png"
   },
   {
     "skillId": "3",
     "name": "Java",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Java_(programming_language)\">Wikipedia</a>)",
+    "description": "In the Santander and Super Wallet applications I used Android Studio, Android SDK, Java, JSON, SQLite, Material Design, Retrofit, RxJava, Firebase, MVP Architecture, Gemalto <br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Java_(programming_language)\">Wikipedia</a>)",
     "imageUrl": "https://www.campusmvp.es/recursos/image.axd?picture=/2017/4T/Java.png"
   },
   {
     "skillId": "4",
     "name": "React-Native",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/React_Native\">Wikipedia</a>)",
+    "description": "Claroshop is mobile Android platform application where I collaborated with the business analysis, workflows, architecture and development of the e-Commerce functionality by using React Native<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/React_Native\">Wikipedia</a>)",
     "imageUrl": "https://cdn-images-1.medium.com/max/1200/1*SluXAlSPIxxWjwUsiqD2Kw.png"
   },
   {
     "skillId": "5",
     "name": "JavaScript",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/JavaScript\">Wikipedia</a>)",
+    "description": "Hello   <br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/JavaScript\">Wikipedia</a>)",
     "imageUrl": "https://i0.wp.com/www.vidagnu.com/wp-content/uploads/2014/12/javascript.png"
   },
   {
     "skillId": "6",
     "name": "Unity",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Unity_(game_engine)\">Wikipedia</a>)",
+    "description": "I developed an Augmented Reality Android Platform called <b>Viur</b> that works as a Marketplace that allowed Brands to publish Interactive Content of their products in catalogs, in where I used Android Studio, Java, OpenGL ES, C++, Unity3D and Maya fulfilling all the requirements of delivery.<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Unity_(game_engine)\">Wikipedia</a>)",
     "imageUrl": "https://unity3d.com/files/images/ogimg.jpg"
   },
   {
     "skillId": "7",
     "name": "C#",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)\">Wikipedia</a>)",
+    "description": "In the development of an Augmented Reality mobile platform I used Unity with the power of C# Scripting.<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)\">Wikipedia</a>)",
     "imageUrl": "https://www.seas.es/blog/wp-content/uploads/2017/12/C7-programacion.jpg"
   },
   {
     "skillId": "8",
     "name": "Flutter",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Flutter_(software)\">Wikipedia</a>)",
+    "description": "Flutter the new google framework has served me to help startups with their projects for fast releasing.,<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Flutter_(software)\">Wikipedia</a>)",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/7.jpg"
   },
   {
     "skillId": "9",
     "name": "Dart",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Dart_(programming_language)\">Wikipedia</a>)",
+    "description": "Dart is the programming language that is needed to use with Flutter<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Dart_(programming_language)\">Wikipedia</a>)",
     "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2018/08/dart-programming-language-header.png"
   },
   {
     "skillId": "10",
     "name": "Firebase",
-    "description": "Hello(From <a href=\"https://en.wikipedia.org/wiki/Firebase\">Wikipedia</a>)",
+    "description": "Hello   <br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Firebase\">Wikipedia</a>)",
     "imageUrl": "https://firebase.google.com/images/social.png"
   },
   {
     "skillId": "11",
     "name": "ReactJS",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/React_(JavaScript_library)\">Wikipedia</a>)",
+    "description": "For Hybrid components I have used HTML, JavaScript, CSS and React-Js with Redux Architecture<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/React_(JavaScript_library)\">Wikipedia</a>)",
     "imageUrl": "https://miro.medium.com/max/1120/1*dLaDL-lSN0iprzmOpmM7zQ.png"
   },
   {
     "skillId": "12",
     "name": "C++",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/C_(programming_language)\">Wikipedia</a>)",
+    "description": "In my early ages of developer I used c++ with OpenGL for several graphics simulations.<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/C_(programming_language)\">Wikipedia</a>)",
     "imageUrl": "https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/c-plus-plus-lenguaje-de-programacion-logo.png"
   },
   {
     "skillId": "13",
     "name": "Python",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Python_(programming_language)\">Wikipedia</a>)",
+    "description": "Python has helped me for training my Machine Learning models like segmentation, recognition and classification.<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Python_(programming_language)\">Wikipedia</a>)",
     "imageUrl": "https://python.rs/pylogo.png"
   },
   {
     "skillId": "14",
     "name": "Xamarin",
-    "description": "Hello<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Xamarin\">Wikipedia</a>)",
+    "description": "With Xamarin I have implemented some enterprise cross-platform application, using the power of C# as the programming language.<br><br>(Read on <a href=\"https://en.wikipedia.org/wiki/Xamarin\">Wikipedia</a>)",
     "imageUrl": "https://lamanzanamordida.net/app/uploads/2017/05/Xamarin.png"
   }
 ]
